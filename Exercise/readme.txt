@@ -7,5 +7,5 @@ git tracks changes is dev.
 hello world. master.
 quick and simple.
 xiugai1.
-add a master.
+add a master.-master.
 hello world master2.
