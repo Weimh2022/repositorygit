@@ -9,3 +9,4 @@ quick and simple.
 xiugai1.master1.
 add a master.-master.
 hello world master2.
+test dev merge.
