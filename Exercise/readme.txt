@@ -2,6 +2,6 @@ git is a version control system.
 git is free software.
 git tracks changes is
 1
-hello world.
+hello world. master.
 quick and simple.
 xiugai1.
