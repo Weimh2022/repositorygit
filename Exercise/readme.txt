@@ -5,3 +5,4 @@ git tracks changes is dev.
 hello world. master.
 quick and simple.
 xiugai1.
+add a master.
