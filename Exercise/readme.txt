@@ -7,3 +7,4 @@ hello world. master.
 quick and simple.
 xiugai1.
 add a master.
+hello world master2.
